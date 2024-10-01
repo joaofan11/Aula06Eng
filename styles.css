@@ -1,0 +1,23 @@
+div{
+
+    border-color: black;
+    border-style:groove;
+    border-radius: 100%;
+    padding: 10%;
+    position: fixed;
+
+}
+
+
+h2{
+
+    background-color: black;
+    color: white;
+
+}
+
+#Mensagem{
+
+    background-color: blue;
+    color: white;
+}
